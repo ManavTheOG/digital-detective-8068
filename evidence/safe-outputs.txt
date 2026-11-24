@@ -165,3 +165,16 @@ $ ping -c 3 example.com (summary)
 
 $ nslookup example.com (resolved public IPs; local DNS server omitted)
 172.66.147.243, 104.20.23.154
+
+=== Mission 8: Final Repository Verification ===
+$ git log --oneline (prior to final commit)
+f36c878 Explain networking concepts and website communication
+098baa7 Complete Git and GitHub collaboration mission
+45ff070 Merge pull request from update-about into main
+cf6562c Add My Learning section to root README on update-about branch
+651cc30 Build number converter and practise data representation
+bfdf040 Compare compilers and interpreters
+2980092 Document operating system and file management
+e9faea4 Complete Terminal and file management mission
+8bd9822 Complete computer basics and IPOS mission
+55087f0 Set up Digital Detective mission structure
